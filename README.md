@@ -13,7 +13,7 @@ Este proyecto es un prototipo de agenda de citas para desarrollos web, que permi
 
 - **Frontend**: HTML, CSS, JavaScript, Livewire
 - **Backend**: Laravel, PHP.
-- 
+
 ## Instalación y Configuración
 
 ### 1. Clonar el repositorio
